@@ -30,6 +30,8 @@
   "homepage": "https://github.com/Munter/express-systemjs-translate",
   "devDependencies": {
     "coveralls": "^2.11.3",
+    "eslint": "3.0.1",
+    "eslint-config-onelint": "1.1.0",
     "express": "^4.13.1",
     "istanbul": "^0.4.4",
     "jshint": "^2.8.0",
